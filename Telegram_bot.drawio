@@ -1,78 +1,144 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 YaBrowser/24.12.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Страница — 1" id="AQl9WBa_TOPAPKax5sv7">
-    <mxGraphModel dx="2026" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3006" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="light-dark(#CCFFFF,#67AB9F)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fillColor=#FFE45E;strokeColor=#FF6392;labelBackgroundColor=none;fontColor=#000000;textShadow=0;spacingTop=0;" edge="1" parent="1" source="aZWd4whTSfj6Bo79EyQD-1" target="aZWd4whTSfj6Bo79EyQD-2">
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;labelBackgroundColor=none;fontColor=default;textShadow=0;spacingTop=0;" parent="1" source="aZWd4whTSfj6Bo79EyQD-1" target="aZWd4whTSfj6Bo79EyQD-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;Запуск бота&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fillColor=#FFE45E;strokeColor=#FF6392;labelBackgroundColor=none;fontColor=#000000;textShadow=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;Запуск бота&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;labelBackgroundColor=none;textShadow=0;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fillColor=#FFE45E;strokeColor=#FF6392;labelBackgroundColor=none;fontColor=#000000;textShadow=0;spacingTop=0;" edge="1" parent="1" source="aZWd4whTSfj6Bo79EyQD-2" target="aZWd4whTSfj6Bo79EyQD-4">
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;labelBackgroundColor=none;fontColor=default;textShadow=0;spacingTop=0;" parent="1" source="aZWd4whTSfj6Bo79EyQD-2" target="aZWd4whTSfj6Bo79EyQD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;Подключение к базе данных&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fillColor=#FFE45E;strokeColor=#FF6392;labelBackgroundColor=none;fontColor=#000000;textShadow=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;Подключение к базе данных&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;labelBackgroundColor=none;textShadow=0;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=#000000;textShadow=0;spacingTop=0;" edge="1" parent="1" source="aZWd4whTSfj6Bo79EyQD-4" target="aZWd4whTSfj6Bo79EyQD-6">
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=default;textShadow=0;spacingTop=0;" parent="1" source="aZWd4whTSfj6Bo79EyQD-4" target="aZWd4whTSfj6Bo79EyQD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-4" value="&lt;div style=&quot;line-height: 1.3; vertical-align: middle;&quot;&gt;&lt;h4&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;Получение данных о пользователе из телеграмм&lt;br&gt;(имя, ID)&lt;/font&gt;&lt;/span&gt;&lt;/h4&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;fillColor=#FFE45E;strokeColor=#FF6392;labelBackgroundColor=none;fontColor=#000000;textShadow=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="120" height="110" as="geometry" />
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-4" value="&lt;div style=&quot;line-height: 1.3; vertical-align: middle;&quot;&gt;&lt;h4&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;Получение данных о пользователе из телеграмм&lt;br&gt;(имя, ID)&lt;/font&gt;&lt;/span&gt;&lt;/h4&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;labelBackgroundColor=none;textShadow=0;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="200" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=#000000;textShadow=0;spacingTop=0;" edge="1" parent="1" source="aZWd4whTSfj6Bo79EyQD-6" target="aZWd4whTSfj6Bo79EyQD-8">
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=default;textShadow=0;spacingTop=0;" parent="1" source="aZWd4whTSfj6Bo79EyQD-6" target="aZWd4whTSfj6Bo79EyQD-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-10" value="Не найден ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=#000000;textShadow=0;spacingTop=0;" vertex="1" connectable="0" parent="aZWd4whTSfj6Bo79EyQD-9">
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-10" value="Не найден ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;textShadow=0;spacingTop=0;rounded=1;" parent="aZWd4whTSfj6Bo79EyQD-9" vertex="1" connectable="0">
           <mxGeometry x="0.0667" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=#000000;textShadow=0;spacingTop=0;" edge="1" parent="1" source="aZWd4whTSfj6Bo79EyQD-6" target="aZWd4whTSfj6Bo79EyQD-11">
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=default;textShadow=0;spacingTop=0;" parent="1" source="aZWd4whTSfj6Bo79EyQD-6" target="aZWd4whTSfj6Bo79EyQD-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-13" value="Найден ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=#000000;textShadow=0;spacingTop=0;" vertex="1" connectable="0" parent="aZWd4whTSfj6Bo79EyQD-12">
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-13" value="Найден ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;textShadow=0;spacingTop=0;rounded=1;" parent="aZWd4whTSfj6Bo79EyQD-12" vertex="1" connectable="0">
           <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-6" value="&lt;div style=&quot;line-height: 1.3; vertical-align: middle; font-size: 14px;&quot;&gt;&lt;p&gt;Поиск ID пользователя в базе&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Roboto;fillColor=#FFE45E;strokeColor=#FF6392;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=#000000;textShadow=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-6" value="&lt;div style=&quot;line-height: 1.3; vertical-align: middle; font-size: 14px;&quot;&gt;&lt;p&gt;Поиск ID пользователя в базе&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Roboto;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;textShadow=0;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=#000000;textShadow=0;spacingTop=0;" edge="1" parent="1" source="aZWd4whTSfj6Bo79EyQD-8" target="aZWd4whTSfj6Bo79EyQD-11">
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=default;textShadow=0;spacingTop=0;" parent="1" source="aZWd4whTSfj6Bo79EyQD-8" target="aZWd4whTSfj6Bo79EyQD-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-8" value="&lt;div style=&quot;line-height: 1.3; vertical-align: middle; font-size: 14px;&quot;&gt;&lt;p&gt;Добавить пользователя в базу данных&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Roboto;fillColor=#FFE45E;strokeColor=#FF6392;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="580" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-8" value="&lt;div style=&quot;line-height: 1.3; vertical-align: middle; font-size: 14px;&quot;&gt;&lt;p&gt;Добавить пользователя в базу данных&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Roboto;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="660" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=#000000;textShadow=0;spacingTop=0;" edge="1" parent="1" source="aZWd4whTSfj6Bo79EyQD-11" target="aZWd4whTSfj6Bo79EyQD-19">
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=default;textShadow=0;spacingTop=0;" parent="1" source="aZWd4whTSfj6Bo79EyQD-11" target="aZWd4whTSfj6Bo79EyQD-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="570" as="targetPoint" />
+            <mxPoint x="350" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=#000000;textShadow=0;spacingTop=0;" edge="1" parent="1" source="aZWd4whTSfj6Bo79EyQD-11" target="aZWd4whTSfj6Bo79EyQD-21">
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=default;textShadow=0;spacingTop=0;" parent="1" source="aZWd4whTSfj6Bo79EyQD-11" target="aZWd4whTSfj6Bo79EyQD-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="560" as="targetPoint" />
+            <mxPoint x="480" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=#000000;textShadow=0;spacingTop=0;" edge="1" parent="1" source="aZWd4whTSfj6Bo79EyQD-11" target="aZWd4whTSfj6Bo79EyQD-23">
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=default;textShadow=0;spacingTop=0;" parent="1" source="aZWd4whTSfj6Bo79EyQD-11" target="aZWd4whTSfj6Bo79EyQD-23" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="570" as="targetPoint" />
+            <mxPoint x="610" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-11" value="&lt;div style=&quot;line-height: 1.3; vertical-align: middle; font-size: 14px;&quot;&gt;&lt;p&gt;Вывести меню&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Roboto;fillColor=#FFE45E;strokeColor=#FF6392;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=#000000;textShadow=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-1" value="Нажатие кнопки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="aZWd4whTSfj6Bo79EyQD-22">
+          <mxGeometry x="-0.8941" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-19" value="Мои ключи" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="210" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aZWd4whTSfj6Bo79EyQD-11" target="MdKZZzNTr3m9MVsxQp7b-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-21" value="Продлить" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#000000;textShadow=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-11" value="&lt;div style=&quot;line-height: 1.3; vertical-align: middle; font-size: 14px;&quot;&gt;&lt;p&gt;Вывести меню&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Roboto;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;textShadow=0;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZWd4whTSfj6Bo79EyQD-23" value="Помощь" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#000000;textShadow=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-19" value="Мои ключи" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="290" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-21" value="Продлить" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;textShadow=0;spacingTop=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="420" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aZWd4whTSfj6Bo79EyQD-23" value="Помощь" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;textShadow=0;spacingTop=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="550" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="MdKZZzNTr3m9MVsxQp7b-3" target="MdKZZzNTr3m9MVsxQp7b-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-3" value="Получить ключ" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="MdKZZzNTr3m9MVsxQp7b-4" target="MdKZZzNTr3m9MVsxQp7b-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-8" value="Ключ есть" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" connectable="0" parent="MdKZZzNTr3m9MVsxQp7b-7">
+          <mxGeometry x="-0.325" relative="1" as="geometry">
+            <mxPoint x="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="MdKZZzNTr3m9MVsxQp7b-4" target="MdKZZzNTr3m9MVsxQp7b-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-19" value="Ключа нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" connectable="0" parent="MdKZZzNTr3m9MVsxQp7b-18">
+          <mxGeometry x="-0.0212" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-4" value="Проверка наличия ключа в базе данных" style="whiteSpace=wrap;html=1;fontFamily=Roboto;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="20" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="MdKZZzNTr3m9MVsxQp7b-6" target="MdKZZzNTr3m9MVsxQp7b-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="MdKZZzNTr3m9MVsxQp7b-6" target="MdKZZzNTr3m9MVsxQp7b-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-22" value="Нажатие кнопки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="MdKZZzNTr3m9MVsxQp7b-14">
+          <mxGeometry x="-0.8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-6" value="Проинформировать что ключ есть и вывести кнопки" style="whiteSpace=wrap;html=1;fontFamily=Roboto;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-11" value="Вывести меню оплаты" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MdKZZzNTr3m9MVsxQp7b-12" target="MdKZZzNTr3m9MVsxQp7b-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-12" value="Заказать еще ключ" style="whiteSpace=wrap;html=1;fontFamily=Roboto;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="10" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MdKZZzNTr3m9MVsxQp7b-15" target="aZWd4whTSfj6Bo79EyQD-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MdKZZzNTr3m9MVsxQp7b-15" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
